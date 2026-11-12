@@ -1,4 +1,16 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN">
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
+
+    <!ENTITY apos   CDATA "&#x2019;"  --     902 -->
+    <!ENTITY ldquo  CDATA "&#x201C;"  --     341 -->
+    <!ENTITY lsquo  CDATA "&#x2018;"  --       1 -->
+    <!ENTITY mdash  CDATA "&#x2014;"  --     389 -->
+    <!ENTITY nbsp   CDATA "&#x00A0;"  --       1 -->
+    <!ENTITY ndash  CDATA "&#x2013;"  --       6 -->
+    <!ENTITY oelig  CDATA "&#x0153;"  --       2 -->
+    <!ENTITY rdquo  CDATA "&#x201D;"  --     338 -->
+    <!ENTITY rsquo  CDATA "&#x2019;"  --       1 -->
+
+]>
 <TEI.2 lang=en-US>
 <teiHeader>
 <fileDesc>
@@ -181,104 +193,104 @@
 
 <p>      <ab type=tocPageNum><hi rend=asc>PAGE</hi></ab>
 
-<p rend="class(tocHead)">I <hi rend=sc><ref target=ch1>Among the Caribbees</ref></hi>        <ab type=tocPageNum>3</ab>
+<p rend=tocHead>I <hi rend=sc><ref target=ch1>Among the Caribbees</ref></hi>        <ab type=tocPageNum>3</ab>
 
-    <p rend="class(tocArgument)">Reasons. The romantic isles. The <hi>Vigilant</hi>. A real pirate ship. The Virgin Islands. Dead Man&apos;s Chest. Sam, the descendant of the pirate chief. The <hi>Vigilant&apos;s</hi> crew. Trouble comes to the <hi>Vigilant</hi>. Arguments. My happy family.
-
-
-<p rend="class(tocHead)">II <hi rend=sc><ref target=ch2>St. Thomas and Its Past</ref></hi>        <ab type=tocPageNum>22</ab>
-
-    <p rend="class(tocArgument)">First view of St. Thomas. Charlotte Amalie. The people. Shops and commodities. The home of bay-rum. Wet and dry. Odd wares. The ships&apos; graveyard. Blackbeard&apos;s Castle. The pirates&apos; haunts.
+    <p rend=tocArgument>Reasons. The romantic isles. The <hi>Vigilant</hi>. A real pirate ship. The Virgin Islands. Dead Man&apos;s Chest. Sam, the descendant of the pirate chief. The <hi>Vigilant&apos;s</hi> crew. Trouble comes to the <hi>Vigilant</hi>. Arguments. My happy family.
 
 
-<p rend="class(tocHead)">III <hi rend=sc><ref target=ch3>The Buccaneers in the Virgin Isles</ref></hi>        <ab type=tocPageNum>38</ab>
+<p rend=tocHead>II <hi rend=sc><ref target=ch2>St. Thomas and Its Past</ref></hi>        <ab type=tocPageNum>22</ab>
 
-    <p rend="class(tocArgument)">The lairs of the buccaneers. Buccaneers and pirates. Queer conditions. When life was cheap. Interesting characters. A buccaneer poet. Blackbeard and his ways. The end of Blackbeard.
-
-
-<p rend="class(tocHead)">IV <hi rend=sc><ref target=ch4>On the Way to St. John</ref></hi>        <ab type=tocPageNum>58</ab>
-
-    <p rend="class(tocArgument)">Farewell, St. Thomas. Sail Rock. The joke on the Frenchman. The lure of the Caribbean. A man of peace. St. John. An island gem. At Rendezvous Bay. Relics of the buccaneers. The bloody past. A deserted Eden. The St. John of to-day.
+    <p rend=tocArgument>First view of St. Thomas. Charlotte Amalie. The people. Shops and commodities. The home of bay-rum. Wet and dry. Odd wares. The ships&apos; graveyard. Blackbeard&apos;s Castle. The pirates&apos; haunts.
 
 
-<p rend="class(tocHead)">V <hi rend=sc><ref target=ch5>St. John and Some Discoveries</ref></hi>        <ab type=tocPageNum>77</ab>
+<p rend=tocHead>III <hi rend=sc><ref target=ch3>The Buccaneers in the Virgin Isles</ref></hi>        <ab type=tocPageNum>38</ab>
 
-    <p rend="class(tocArgument)">Buccaneer haunts. The pirates&apos; friends. Hamlin the corsair. The friendly governor. Tales of treasure. Relics of the past. An ancient souvenir. Reminiscences. The concert. A discovery.
-
-
-<p rend="class(tocHead)">VI <hi rend=sc><ref target=ch6>Anegada and a Bit of Treasure-Trove</ref></hi>        <ab type=tocPageNum>94</ab>
-
-    <p rend="class(tocArgument)">Tortola, the Isle of the Turtle-dove. The once prosperous port. Onward to Anegada. The Fat Virgin. Norman Island and Kidd&apos;s treasure. The truth about Captain Kidd. The Don Quixote of the Caribbean. The end of Prince Rupert of the Rhine. Anegada, the Drowned Island. Through the guardian reef. Wreckers. Flotsam and jetsam huts. Pirate forts and pirate cannon. The Portuguese derelict. Treasure-trove.
+    <p rend=tocArgument>The lairs of the buccaneers. Buccaneers and pirates. Queer conditions. When life was cheap. Interesting characters. A buccaneer poet. Blackbeard and his ways. The end of Blackbeard.
 
 
-<pb n=xii><p rend="class(tocHead)">VII <hi rend=sc><ref target=ch7>Lonely Isles</ref></hi>      <ab type=tocPageNum>114</ab>
+<p rend=tocHead>IV <hi rend=sc><ref target=ch4>On the Way to St. John</ref></hi>        <ab type=tocPageNum>58</ab>
 
-    <p rend="class(tocArgument)">Across the Anegada Passage to St. Martin. Anguilla, the Eel. The island under two flags. St. Martin a charming island. Salt pans and industries. Onward to St. Barts. A poverty-stricken spot. Once Sweden&apos;s colony. The gathering-place of the buccaneers. On the beach. A privateers&apos; lair. Gustavia&apos;s heyday. Montbars the Exterminator. Statia. Where the Stars and Stripes were first saluted. Orangetown and its treasure. The world&apos;s greatest auction sale. Statia&apos;s knell. Saba the marvelous. The town in the crater. Saba and its people. Strange industries.
-
-
-<p rend="class(tocHead)">VIII <hi rend=sc><ref target=ch8>St. Kitts and the Gorgeous Isle</ref></hi>      <ab type=tocPageNum>136</ab>
-
-    <p rend="class(tocArgument)">St. Kitts the beautiful. Basseterre. The island&apos;s golden past. The first settled of the British isles. French and English. Early days. Brimstone Hill and its massive fort. An echo of the past. The Travels of Captain Smith. Caribs and quarrels. The &ldquo;overgrowne stormes.&rdquo; Convict slaves. The Gorgeous Isle. Nevis and its past. Where Nelson married and Hamilton was born. The submerged city. A miraculous escape. A moral pirate. Sharp the great adventurer.
+    <p rend=tocArgument>Farewell, St. Thomas. Sail Rock. The joke on the Frenchman. The lure of the Caribbean. A man of peace. St. John. An island gem. At Rendezvous Bay. Relics of the buccaneers. The bloody past. A deserted Eden. The St. John of to-day.
 
 
-<p rend="class(tocHead)">IX <hi rend=sc><ref target=ch9>The &ldquo;Dangerous Voyage&rdquo; and the Effect of a Nagging Tongue</ref></hi>      <ab type=tocPageNum>152</ab>
+<p rend=tocHead>V <hi rend=sc><ref target=ch5>St. John and Some Discoveries</ref></hi>        <ab type=tocPageNum>77</ab>
 
-    <p rend="class(tocArgument)">Bartholomew Sharp and his great adventure. Across Darien. The attack on the Spanish fleet. The <hi>Blessed Trinity</hi> and its marvelous cruise. Down the west coast. Around the Horn. The log of the <hi>Trinity</hi>. Mutiny. Religious buccaneers. Homeward through storm-lashed seas. The end of the &ldquo;dangerous voyage.&rdquo; The &ldquo;sea artist&rdquo; goes home. Stede Bonnet the gentleman pirate. The less of two evils. The effect of a nagging tongue. In evil company. The fate of the major. Over Saba Bank. Sam&apos;s sixth sense. Good hauls. Land ho!
-
-
-<p rend="class(tocHead)">X <hi rend=sc><ref target=ch10>The Isle of the Holy Cross</ref></hi>      <ab type=tocPageNum>171</ab>
-
-    <p rend="class(tocArgument)">St. Croix or Santa Cruz. An Emerald Isle. Where sugar was king. Christiansted. Ashore. Attractions of the island. A target for hurricanes. How Hamilton attracted attention. Cannibals. A turbulent past. Dreams of a kingdom. Knights of Malta. The home port of the <hi>Vigilant</hi>. Over the sea to Porto Rico. Porto Rico&apos;s beauties and attractions. A tamed island. Drake&apos;s repulse. The man with the queen&apos;s glove in his hat. How the Earl of Cumberland took San Juan. An enemy he could not conquer. Ogeron&apos;s attempts. The pirate prisoners. Ogeron&apos;s escape. The rescuers. In the chain-gang. Birds of a feather. Mona the forbidding. Hispaniola the mighty. A miniature continent. The most historic spot in America. A land drenched in blood.
+    <p rend=tocArgument>Buccaneer haunts. The pirates&apos; friends. Hamlin the corsair. The friendly governor. Tales of treasure. Relics of the past. An ancient souvenir. Reminiscences. The concert. A discovery.
 
 
-<pb n=xiii><p rend="class(tocHead)">XI <hi rend=sc><ref target=ch11>The Gibraltar of the Buccaneers</ref></hi>      <ab type=tocPageNum>195</ab>
+<p rend=tocHead>VI <hi rend=sc><ref target=ch6>Anegada and a Bit of Treasure-Trove</ref></hi>        <ab type=tocPageNum>94</ab>
 
-    <p rend="class(tocArgument)">Samana Bay and its environs. Where the first blood was spilled. The Bay of the Arrows. Trade Wind Cay. The pirates&apos; stronghold. A miniature Gibraltar. Legends and superstitions. Ruins on the cay. Treasure. Joseph&apos;s find. Those who frequented the isle. Round and about Samana Bay. Samana and its people. Sanchez. A wild coast. Caverns. The amber beach.
-
-
-<p rend="class(tocHead)">XII <hi rend=sc><ref target=ch12>The Birthplace of the Buccaneers</ref></hi>      <ab type=tocPageNum>210</ab>
-
-    <p rend="class(tocArgument)">The rugged island. The Dons in Santo Domingo. First gold in the New World. La Vega la Antigua. Old Weapons. The Cibao. Along the coast to Puerto Plata. The port. The Silver Shoals and Phipps&apos;s treasure. The first European settlement in America. Isabella. Monte Cristi and El Morro. Tortuga the birthplace of the buccaneers. Cayona. The origin of the buccaneers. Strategies. Pirate governors. The buccaneers&apos; fort. The fate of the West India Company.
+    <p rend=tocArgument>Tortola, the Isle of the Turtle-dove. The once prosperous port. Onward to Anegada. The Fat Virgin. Norman Island and Kidd&apos;s treasure. The truth about Captain Kidd. The Don Quixote of the Caribbean. The end of Prince Rupert of the Rhine. Anegada, the Drowned Island. Through the guardian reef. Wreckers. Flotsam and jetsam huts. Pirate forts and pirate cannon. The Portuguese derelict. Treasure-trove.
 
 
-<p rend="class(tocHead)">XIII <hi rend=sc><ref target=ch13>The Brethren of the Main</ref></hi>      <ab type=tocPageNum>226</ab>
+<pb n=xii><p rend=tocHead>VII <hi rend=sc><ref target=ch7>Lonely Isles</ref></hi>      <ab type=tocPageNum>114</ab>
 
-    <p rend="class(tocArgument)">The buccaneer island. Early forays. Humane practices. How the pirates got their vessels. Daring assaults. The buccaneers&apos; ships. A motley lot. Honor among thieves. The inventors of accident insurance. Employees&apos; indemnities. Division of spoils. Oaths and agreements. Rules. Penalties. Recompense. Temptations. A few of the buccaneers. Rock Brasiliano the German. A degenerate brute. Bravery of Brasiliano. Escape from Campeche. John Davis the Jamaican pirate. A &ldquo;kind and considerate man.&rdquo; Lolonais the most cruel of the buccaneers. An ex-slave. A protégé of the governor. A notable feat. A monster in human form. Cannibalistic tendencies. Lolonais shipwrecked. The awful fate of Lolonais. Quarrels among the freebooters. The British buccaneers help take Jamaica. The pirates&apos; new lair.
-
-
-<p rend="class(tocHead)">XIV <hi rend=sc><ref target=ch14>The Granddaddy of the Dollar</ref></hi>      <ab type=tocPageNum>243</ab>
-
-    <p rend="class(tocArgument)">Through the Windward Passage. Cuba. Navassa the barren. The island that sent the S. O. S. The buccaneers in Cuba. Morgan at Puerto Principe. The Isle of Pines and its crocodiles. Gonaives. Over historic seas. Pieces of eight. Origin of the dollar sign. Doubloons and onzas. The forerunner of the metric system. Cross money. Mixed coins. Canny Sam. A prospective wedding. Sail ho!
+    <p rend=tocArgument>Across the Anegada Passage to St. Martin. Anguilla, the Eel. The island under two flags. St. Martin a charming island. Salt pans and industries. Onward to St. Barts. A poverty-stricken spot. Once Sweden&apos;s colony. The gathering-place of the buccaneers. On the beach. A privateers&apos; lair. Gustavia&apos;s heyday. Montbars the Exterminator. Statia. Where the Stars and Stripes were first saluted. Orangetown and its treasure. The world&apos;s greatest auction sale. Statia&apos;s knell. Saba the marvelous. The town in the crater. Saba and its people. Strange industries.
 
 
-<p rend="class(tocHead)">XV <hi rend=sc><ref target=ch15>Where a Pirate Ruled</ref></hi>      <ab type=tocPageNum>257</ab>
+<p rend=tocHead>VIII <hi rend=sc><ref target=ch8>St. Kitts and the Gorgeous Isle</ref></hi>      <ab type=tocPageNum>136</ab>
 
-    <p rend="class(tocArgument)">Lovely Jamaica. The long-suffering island. The Port Royal of to-day. Fort Charles and its associations. Nelson&apos;s quarter-deck. Nelson at Port Royal. The fleet that <pb n=xiv>never came. Scenes in Port Royal. The Port Royal of the past. The metropolis of the buccaneers. The richest and wickedest city in the world. Pirates&apos; pastimes. Vice and debauchery. The pirates&apos; church. Harry Morgan&apos;s way. The fate of Port Royal. The destruction of the town. Survivors. Founding of Kingston. Fire, hurricane, and earthquake. Columbus and his shipwreck. <corr sic=Cimmarroons>Cimmaroons</corr> and slave uprisings. The grip of the trust.
-
-
-<p rend="class(tocHead)">XVI <hi rend=sc><ref target=ch16>Jamaica and Its Pirate Governor</ref></hi>      <ab type=tocPageNum>274</ab>
-
-    <p rend="class(tocArgument)">Kingston and its surroundings. The destruction of Kingston. In the country. Motor roads. Newcastle. Cataracts. The three-fingered bandit. The Natural Bridge. Spanish Town. Origin of names. The sleepy town. Round and about Spanish Town. The cathedral. Epitaphs. Penn and Venables. The angler soldier. Benbow and his bravery. Benbow&apos;s tomb. The battle with Du Casse. Death of Benbow. Sir Henry Morgan. The pirate knight. His short career. Origin and life. How Morgan won fame and fortune. Morgan&apos;s first great deed. Sack of Puerto Principe. Morgan&apos;s quixotic nature. Little loot. The taking of Porto Bello. Immense treasure. Attack on Panama. Morgan arrested. The pirate honored. The buccaneer governor. Morgan disgraced. The end of Morgan.
+    <p rend=tocArgument>St. Kitts the beautiful. Basseterre. The island&apos;s golden past. The first settled of the British isles. French and English. Early days. Brimstone Hill and its massive fort. An echo of the past. The Travels of Captain Smith. Caribs and quarrels. The &ldquo;overgrowne stormes.&rdquo; Convict slaves. The Gorgeous Isle. Nevis and its past. Where Nelson married and Hamilton was born. The submerged city. A miraculous escape. A moral pirate. Sharp the great adventurer.
 
 
-<p rend="class(tocHead)">XVII <hi rend=sc><ref target=ch17>The Bridge of the World</ref></hi>      <ab type=tocPageNum>294</ab>
+<p rend=tocHead>IX <hi rend=sc><ref target=ch9>The &ldquo;Dangerous Voyage&rdquo; and the Effect of a Nagging Tongue</ref></hi>      <ab type=tocPageNum>152</ab>
 
-    <p rend="class(tocArgument)">Farewell to the <hi>Vigilant</hi>. Westward by steamer. Old Providence. The Spanish Main. Colon. A petty squabble. Colon and Cristobal. Porto Bello. The Gold Road and its past. Grim tales. San Jerome. The fall of Porto Bello. Morgan&apos;s attack on Porto Bello. The valiant governor. Morgan&apos;s brutalities. Tortures. Ransoms. The viceroy&apos;s message. Morgan&apos;s pleasantries. The ruins of Porto Bello. The forgotten Gold Road.
-
-
-<p rend="class(tocHead)">XVIII <hi rend=sc><ref target=ch18>The Castle of Gold</ref></hi>      <ab type=tocPageNum>313</ab>
-
-    <p rend="class(tocArgument)">The riches of Panama. The greatest gold-producing country. Output of mines. The treasure-house of Spain. Decadence of Panama. Indian uprisings. Slaves. Emancipation. Lost mines. Revolutions. The Panamanian people. A degenerate race. People of the interior. Inhabitants of cities. Business and industry. Exceptions to the rule. What the Americans have done. Lack of gratitude. Animosity. A wonderful land. Darien the unknown. Indians. The <hi>bravos</hi>. The pirates&apos; treatment of the Indians. Sharp&apos;s trip across Darien. The sack of El Real de Santa Maria. El Real to-day. A deserted wonderland.
+    <p rend=tocArgument>Bartholomew Sharp and his great adventure. Across Darien. The attack on the Spanish fleet. The <hi>Blessed Trinity</hi> and its marvelous cruise. Down the west coast. Around the Horn. The log of the <hi>Trinity</hi>. Mutiny. Religious buccaneers. Homeward through storm-lashed seas. The end of the &ldquo;dangerous voyage.&rdquo; The &ldquo;sea artist&rdquo; goes home. Stede Bonnet the gentleman pirate. The less of two evils. The effect of a nagging tongue. In evil company. The fate of the major. Over Saba Bank. Sam&apos;s sixth sense. Good hauls. Land ho!
 
 
-<p rend="class(tocHead)">XIX <hi rend=sc><ref target=ch19>Panama New and Old</ref></hi>      <ab type=tocPageNum>332</ab>
+<p rend=tocHead>X <hi rend=sc><ref target=ch10>The Isle of the Holy Cross</ref></hi>      <ab type=tocPageNum>171</ab>
 
-    <p rend="class(tocArgument)">How Ringrose described Panama. Changes of to-day. In the city. A hustling modern town. Round the town. The old fort. Walls. Chiriqui and Las Bovedas. Where the <pb n=xv>creek once flowed. The old city wall. Churches. Odd architecture. Ruins. The Golden Altar of San José. Old Panama. The bridge crossed by Morgan. Ruins. St. Anastasio&apos;s tower. Old fort and walls. Reconstruction of the ruins. The facts about old Panama. Burning of the city. Relics. Old Panama as it was. Wanton destruction. Morgan&apos;s blackest deed.
+    <p rend=tocArgument>St. Croix or Santa Cruz. An Emerald Isle. Where sugar was king. Christiansted. Ashore. Attractions of the island. A target for hurricanes. How Hamilton attracted attention. Cannibals. A turbulent past. Dreams of a kingdom. Knights of Malta. The home port of the <hi>Vigilant</hi>. Over the sea to Porto Rico. Porto Rico&apos;s beauties and attractions. A tamed island. Drake&apos;s repulse. The man with the queen&apos;s glove in his hat. How the Earl of Cumberland took San Juan. An enemy he could not conquer. Ogeron&apos;s attempts. The pirate prisoners. Ogeron&apos;s escape. The rescuers. In the chain-gang. Birds of a feather. Mona the forbidding. Hispaniola the mighty. A miniature continent. The most historic spot in America. A land drenched in blood.
 
 
-<p rend="class(tocHead)">XX <hi rend=sc><ref target=ch20>How Morgan Kept His Promise</ref></hi>      <ab type=tocPageNum>349</ab>
+<pb n=xiii><p rend=tocHead>XI <hi rend=sc><ref target=ch11>The Gibraltar of the Buccaneers</ref></hi>      <ab type=tocPageNum>195</ab>
 
-    <p rend="class(tocArgument)">Morgan&apos;s rise to fame. The gathering of the great fleet. The taking of Old Providence. Treachery. The attack on San Lorenzo. A furious battle. The accident that won the day. Bravery of Spanish troops. Awful slaughter. Morgan&apos;s arrival. Morgan garrisons the fort. Loss of ships. Up the Chagres. Overland. Hardship and sufferings. In sight of Panama. The battle before the city. The buccaneers&apos; victory. Deviltry let loose. Tortures and murder. Burning of the city. The return. Morgan&apos;s gallantry. Sir Henry&apos;s treachery. The pirate Judas. The dishonored chieftain. Monuments to the past.
+    <p rend=tocArgument>Samana Bay and its environs. Where the first blood was spilled. The Bay of the Arrows. Trade Wind Cay. The pirates&apos; stronghold. A miniature Gibraltar. Legends and superstitions. Ruins on the cay. Treasure. Joseph&apos;s find. Those who frequented the isle. Round and about Samana Bay. Samana and its people. Sanchez. A wild coast. Caverns. The amber beach.
+
+
+<p rend=tocHead>XII <hi rend=sc><ref target=ch12>The Birthplace of the Buccaneers</ref></hi>      <ab type=tocPageNum>210</ab>
+
+    <p rend=tocArgument>The rugged island. The Dons in Santo Domingo. First gold in the New World. La Vega la Antigua. Old Weapons. The Cibao. Along the coast to Puerto Plata. The port. The Silver Shoals and Phipps&apos;s treasure. The first European settlement in America. Isabella. Monte Cristi and El Morro. Tortuga the birthplace of the buccaneers. Cayona. The origin of the buccaneers. Strategies. Pirate governors. The buccaneers&apos; fort. The fate of the West India Company.
+
+
+<p rend=tocHead>XIII <hi rend=sc><ref target=ch13>The Brethren of the Main</ref></hi>      <ab type=tocPageNum>226</ab>
+
+    <p rend=tocArgument>The buccaneer island. Early forays. Humane practices. How the pirates got their vessels. Daring assaults. The buccaneers&apos; ships. A motley lot. Honor among thieves. The inventors of accident insurance. Employees&apos; indemnities. Division of spoils. Oaths and agreements. Rules. Penalties. Recompense. Temptations. A few of the buccaneers. Rock Brasiliano the German. A degenerate brute. Bravery of Brasiliano. Escape from Campeche. John Davis the Jamaican pirate. A &ldquo;kind and considerate man.&rdquo; Lolonais the most cruel of the buccaneers. An ex-slave. A protégé of the governor. A notable feat. A monster in human form. Cannibalistic tendencies. Lolonais shipwrecked. The awful fate of Lolonais. Quarrels among the freebooters. The British buccaneers help take Jamaica. The pirates&apos; new lair.
+
+
+<p rend=tocHead>XIV <hi rend=sc><ref target=ch14>The Granddaddy of the Dollar</ref></hi>      <ab type=tocPageNum>243</ab>
+
+    <p rend=tocArgument>Through the Windward Passage. Cuba. Navassa the barren. The island that sent the S. O. S. The buccaneers in Cuba. Morgan at Puerto Principe. The Isle of Pines and its crocodiles. Gonaives. Over historic seas. Pieces of eight. Origin of the dollar sign. Doubloons and onzas. The forerunner of the metric system. Cross money. Mixed coins. Canny Sam. A prospective wedding. Sail ho!
+
+
+<p rend=tocHead>XV <hi rend=sc><ref target=ch15>Where a Pirate Ruled</ref></hi>      <ab type=tocPageNum>257</ab>
+
+    <p rend=tocArgument>Lovely Jamaica. The long-suffering island. The Port Royal of to-day. Fort Charles and its associations. Nelson&apos;s quarter-deck. Nelson at Port Royal. The fleet that <pb n=xiv>never came. Scenes in Port Royal. The Port Royal of the past. The metropolis of the buccaneers. The richest and wickedest city in the world. Pirates&apos; pastimes. Vice and debauchery. The pirates&apos; church. Harry Morgan&apos;s way. The fate of Port Royal. The destruction of the town. Survivors. Founding of Kingston. Fire, hurricane, and earthquake. Columbus and his shipwreck. <corr sic=Cimmarroons>Cimmaroons</corr> and slave uprisings. The grip of the trust.
+
+
+<p rend=tocHead>XVI <hi rend=sc><ref target=ch16>Jamaica and Its Pirate Governor</ref></hi>      <ab type=tocPageNum>274</ab>
+
+    <p rend=tocArgument>Kingston and its surroundings. The destruction of Kingston. In the country. Motor roads. Newcastle. Cataracts. The three-fingered bandit. The Natural Bridge. Spanish Town. Origin of names. The sleepy town. Round and about Spanish Town. The cathedral. Epitaphs. Penn and Venables. The angler soldier. Benbow and his bravery. Benbow&apos;s tomb. The battle with Du Casse. Death of Benbow. Sir Henry Morgan. The pirate knight. His short career. Origin and life. How Morgan won fame and fortune. Morgan&apos;s first great deed. Sack of Puerto Principe. Morgan&apos;s quixotic nature. Little loot. The taking of Porto Bello. Immense treasure. Attack on Panama. Morgan arrested. The pirate honored. The buccaneer governor. Morgan disgraced. The end of Morgan.
+
+
+<p rend=tocHead>XVII <hi rend=sc><ref target=ch17>The Bridge of the World</ref></hi>      <ab type=tocPageNum>294</ab>
+
+    <p rend=tocArgument>Farewell to the <hi>Vigilant</hi>. Westward by steamer. Old Providence. The Spanish Main. Colon. A petty squabble. Colon and Cristobal. Porto Bello. The Gold Road and its past. Grim tales. San Jerome. The fall of Porto Bello. Morgan&apos;s attack on Porto Bello. The valiant governor. Morgan&apos;s brutalities. Tortures. Ransoms. The viceroy&apos;s message. Morgan&apos;s pleasantries. The ruins of Porto Bello. The forgotten Gold Road.
+
+
+<p rend=tocHead>XVIII <hi rend=sc><ref target=ch18>The Castle of Gold</ref></hi>      <ab type=tocPageNum>313</ab>
+
+    <p rend=tocArgument>The riches of Panama. The greatest gold-producing country. Output of mines. The treasure-house of Spain. Decadence of Panama. Indian uprisings. Slaves. Emancipation. Lost mines. Revolutions. The Panamanian people. A degenerate race. People of the interior. Inhabitants of cities. Business and industry. Exceptions to the rule. What the Americans have done. Lack of gratitude. Animosity. A wonderful land. Darien the unknown. Indians. The <hi>bravos</hi>. The pirates&apos; treatment of the Indians. Sharp&apos;s trip across Darien. The sack of El Real de Santa Maria. El Real to-day. A deserted wonderland.
+
+
+<p rend=tocHead>XIX <hi rend=sc><ref target=ch19>Panama New and Old</ref></hi>      <ab type=tocPageNum>332</ab>
+
+    <p rend=tocArgument>How Ringrose described Panama. Changes of to-day. In the city. A hustling modern town. Round the town. The old fort. Walls. Chiriqui and Las Bovedas. Where the <pb n=xv>creek once flowed. The old city wall. Churches. Odd architecture. Ruins. The Golden Altar of San José. Old Panama. The bridge crossed by Morgan. Ruins. St. Anastasio&apos;s tower. Old fort and walls. Reconstruction of the ruins. The facts about old Panama. Burning of the city. Relics. Old Panama as it was. Wanton destruction. Morgan&apos;s blackest deed.
+
+
+<p rend=tocHead>XX <hi rend=sc><ref target=ch20>How Morgan Kept His Promise</ref></hi>      <ab type=tocPageNum>349</ab>
+
+    <p rend=tocArgument>Morgan&apos;s rise to fame. The gathering of the great fleet. The taking of Old Providence. Treachery. The attack on San Lorenzo. A furious battle. The accident that won the day. Bravery of Spanish troops. Awful slaughter. Morgan&apos;s arrival. Morgan garrisons the fort. Loss of ships. Up the Chagres. Overland. Hardship and sufferings. In sight of Panama. The battle before the city. The buccaneers&apos; victory. Deviltry let loose. Tortures and murder. Burning of the city. The return. Morgan&apos;s gallantry. Sir Henry&apos;s treachery. The pirate Judas. The dishonored chieftain. Monuments to the past.
 
 
 
